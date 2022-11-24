@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-image: url(http://www.psicodelia.org/sites/default/files/tumblr_mp4webvuaq1r70wouo1_500.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255); 
+    text-shadow: 0 0 2px black;
+    text-align: center;
+}
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 0 0 2px black;
+    color: yellow;
+}
+.audio {
+    padding-bottom: 30px;
+}
+.audio:hover {
+    transition: .5s;
+    width: 500px;
+}
